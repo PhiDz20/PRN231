@@ -1,0 +1,757 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|d:\\study\\cn8\\prn231\\lab\\productmanagement\\productmanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\productmanagement\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\viewmodels\\productviewmodel\\productsearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\viewmodels\\productviewmodel\\productsearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\viewmodels\\productviewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\viewmodels\\productviewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\mappers\\productmapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\mappers\\productmapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\viewmodels\\productviewmodel\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\viewmodels\\productviewmodel\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\viewmodels\\productviewmodel\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\viewmodels\\productviewmodel\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\mappers\\categorymapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\mappers\\categorymapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\mappers\\mapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\mappers\\mapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\productmanagement\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\productmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\models\\fstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\models\\fstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\productmanagement\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\responemodels\\responemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\responemodels\\responemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\productmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\productmanagement\\helpers\\kebabcasenamingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\helpers\\kebabcasenamingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\viewmodels\\orderviewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\viewmodels\\orderviewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\viewmodels\\orderdetailviewmodels\\orderdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\viewmodels\\orderdetailviewmodels\\orderdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\viewmodels\\memberviewmodels\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\viewmodels\\memberviewmodels\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\productmanagement\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\productmanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\productmanagement\\productmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\productmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\productmanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F5485-AC6A-4E7D-94BD-1171BA9E5FDC}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\responemodels\\failedresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\responemodels\\failedresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\viewmodels\\categoryviewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\viewmodels\\categoryviewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\viewmodels\\categoryviewmodels\\categoryupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\viewmodels\\categoryviewmodels\\categoryupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\repo\\repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E50D386D-067E-45D0-95DD-81710F904555}|Repo\\Repo.csproj|solutionrelative:repo\\repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\ProductViewModel\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Repo\\ViewModels\\ProductViewModel\\ProductViewModel.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\ProductViewModel\\ProductViewModel.cs",
+              "RelativeToolTip": "Repo\\ViewModels\\ProductViewModel\\ProductViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:52:27.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductMapperConfigs.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Mappers\\ProductMapperConfigs.cs",
+              "RelativeDocumentMoniker": "Repo\\Mappers\\ProductMapperConfigs.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Mappers\\ProductMapperConfigs.cs",
+              "RelativeToolTip": "Repo\\Mappers\\ProductMapperConfigs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:47:42.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductSearchModel.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\ProductViewModel\\ProductSearchModel.cs",
+              "RelativeDocumentMoniker": "Repo\\ViewModels\\ProductViewModel\\ProductSearchModel.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\ProductViewModel\\ProductSearchModel.cs",
+              "RelativeToolTip": "Repo\\ViewModels\\ProductViewModel\\ProductSearchModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:52:22.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repo\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Repo\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwE8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:48:31.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProductManagement\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAgwL0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:25:21.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManagement\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAvwMYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:26:51.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repo\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repo\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAUwH4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:48:27.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\ProductViewModel\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Repo\\ViewModels\\ProductViewModel\\ProductModel.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\ProductViewModel\\ProductModel.cs",
+              "RelativeToolTip": "Repo\\ViewModels\\ProductViewModel\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:52:15.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "test.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\ProductViewModel\\test.cs",
+              "RelativeDocumentMoniker": "Repo\\ViewModels\\ProductViewModel\\test.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\ProductViewModel\\test.cs",
+              "RelativeToolTip": "Repo\\ViewModels\\ProductViewModel\\test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:52:31.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryMapperConfigs.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Mappers\\CategoryMapperConfigs.cs",
+              "RelativeDocumentMoniker": "Repo\\Mappers\\CategoryMapperConfigs.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Mappers\\CategoryMapperConfigs.cs",
+              "RelativeToolTip": "Repo\\Mappers\\CategoryMapperConfigs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:47:25.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Program.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Program.cs",
+              "RelativeToolTip": "ProductManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:42:59.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MapperConfigs.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Mappers\\MapperConfigs.cs",
+              "RelativeDocumentMoniker": "Repo\\Mappers\\MapperConfigs.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Mappers\\MapperConfigs.cs",
+              "RelativeToolTip": "Repo\\Mappers\\MapperConfigs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:47:37.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Repo\\DependencyInjection.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\DependencyInjection.cs",
+              "RelativeToolTip": "Repo\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:52:39.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "ProductManagement\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:26:09.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagement\\appsettings.json",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\appsettings.json",
+              "RelativeToolTip": "ProductManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T13:35:47.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FstoreDbContext.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\FstoreDbContext.cs",
+              "RelativeDocumentMoniker": "Repo\\Models\\FstoreDbContext.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\FstoreDbContext.cs",
+              "RelativeToolTip": "Repo\\Models\\FstoreDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:47:56.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\DependencyInjection.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\DependencyInjection.cs",
+              "RelativeToolTip": "ProductManagement\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:10:58.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResponeModel.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ResponeModels\\ResponeModel.cs",
+              "RelativeDocumentMoniker": "Repo\\ResponeModels\\ResponeModel.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ResponeModels\\ResponeModel.cs",
+              "RelativeToolTip": "Repo\\ResponeModels\\ResponeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:51:27.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductManagement\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductManagement\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T08:41:23.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KebabCaseNamingStrategy.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Helpers\\KebabCaseNamingStrategy.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Helpers\\KebabCaseNamingStrategy.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Helpers\\KebabCaseNamingStrategy.cs",
+              "RelativeToolTip": "ProductManagement\\Helpers\\KebabCaseNamingStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:12:27.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Interface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repo\\Interface\\IGenericRepository.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Interface\\IGenericRepository.cs",
+              "RelativeToolTip": "Repo\\Interface\\IGenericRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAWwA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:45:22.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Helpers\\Pagination.cs",
+              "RelativeDocumentMoniker": "Repo\\Helpers\\Pagination.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Helpers\\Pagination.cs",
+              "RelativeToolTip": "Repo\\Helpers\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:47:17.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDetailViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\OrderDetailViewModels\\OrderDetailViewModel.cs",
+              "RelativeDocumentMoniker": "Repo\\ViewModels\\OrderDetailViewModels\\OrderDetailViewModel.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\OrderDetailViewModels\\OrderDetailViewModel.cs",
+              "RelativeToolTip": "Repo\\ViewModels\\OrderDetailViewModels\\OrderDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:52:03.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\OrderViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Repo\\ViewModels\\OrderViewModels\\OrderViewModel.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\OrderViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "Repo\\ViewModels\\OrderViewModels\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:52:08.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MemberViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\MemberViewModels\\MemberViewModel.cs",
+              "RelativeDocumentMoniker": "Repo\\ViewModels\\MemberViewModels\\MemberViewModel.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\MemberViewModels\\MemberViewModel.cs",
+              "RelativeToolTip": "Repo\\ViewModels\\MemberViewModels\\MemberViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:51:57.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Repo\\Models\\Order.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\Order.cs",
+              "RelativeToolTip": "Repo\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:48:07.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Repo\\Models\\Member.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\Member.cs",
+              "RelativeToolTip": "Repo\\Models\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:48:03.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Dockerfile",
+              "RelativeDocumentMoniker": "ProductManagement\\Dockerfile",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Dockerfile",
+              "RelativeToolTip": "ProductManagement\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-10T09:29:50.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductManagement\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:12:41.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductManagement.http",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\ProductManagement.http",
+              "RelativeDocumentMoniker": "ProductManagement\\ProductManagement.http",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\ProductManagement.http",
+              "RelativeToolTip": "ProductManagement\\ProductManagement.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-10T09:10:33.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\WeatherForecast.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\ProductManagement\\WeatherForecast.cs",
+              "RelativeToolTip": "ProductManagement\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:11:29.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FailedResponseModel.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ResponeModels\\FailedResponseModel.cs",
+              "RelativeDocumentMoniker": "Repo\\ResponeModels\\FailedResponseModel.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ResponeModels\\FailedResponseModel.cs",
+              "RelativeToolTip": "Repo\\ResponeModels\\FailedResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:51:19.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repo\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repo\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:47:01.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Class1.cs",
+              "RelativeDocumentMoniker": "Repo\\Class1.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Class1.cs",
+              "RelativeToolTip": "Repo\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:36:21.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\CategoryViewModels\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Repo\\ViewModels\\CategoryViewModels\\CategoryViewModel.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\CategoryViewModels\\CategoryViewModel.cs",
+              "RelativeToolTip": "Repo\\ViewModels\\CategoryViewModels\\CategoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:51:48.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryUpdateModel.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\CategoryViewModels\\CategoryUpdateModel.cs",
+              "RelativeDocumentMoniker": "Repo\\ViewModels\\CategoryViewModels\\CategoryUpdateModel.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\ViewModels\\CategoryViewModels\\CategoryUpdateModel.cs",
+              "RelativeToolTip": "Repo\\ViewModels\\CategoryViewModels\\CategoryUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:51:41.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Repo\\Models\\Product.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\Product.cs",
+              "RelativeToolTip": "Repo\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:48:19.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Repo\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Repo\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:48:14.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Repo\\Models\\Category.cs",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Models\\Category.cs",
+              "RelativeToolTip": "Repo\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:47:52.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Repo",
+              "DocumentMoniker": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Repo.csproj",
+              "RelativeDocumentMoniker": "Repo\\Repo.csproj",
+              "ToolTip": "D:\\Study\\cn8\\PRN231\\Lab\\ProductManagement\\Repo\\Repo.csproj",
+              "RelativeToolTip": "Repo\\Repo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T08:43:38.773Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 800,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\obj\Debug\net8.0\Repo.csproj.AssemblyReference.cache
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\obj\Debug\net8.0\Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\obj\Debug\net8.0\Repo.AssemblyInfoInputs.cache
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\obj\Debug\net8.0\Repo.AssemblyInfo.cs
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\obj\Debug\net8.0\Repo.csproj.CoreCompileInputs.cache
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\bin\Debug\net8.0\Repo.deps.json
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\bin\Debug\net8.0\Repo.runtimeconfig.json
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\bin\Debug\net8.0\Repo.dll
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\bin\Debug\net8.0\Repo.pdb
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\obj\Debug\net8.0\Repo.dll
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\obj\Debug\net8.0\refint\Repo.dll
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\obj\Debug\net8.0\Repo.pdb
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\obj\Debug\net8.0\Repo.genruntimeconfig.cache
+D:\Study\cn8\PRN231\Lab\ProductManagement\Repo\obj\Debug\net8.0\ref\Repo.dll
